@@ -60,7 +60,8 @@
     <Folder Include="Solution" />
   </ItemGroup>
   <ItemGroup>
-    <Build Include="WordlePlayBuildingScript\wordle_PlayAllWords.sql" />
+    <Build Include="WordlePlayBuildingScript\wordle_BuildTables.sql" />
     <Build Include="Solution\wordle_GetOptimalNextWord_Gary.sql" />
+    <Build Include="WordlePlayBuildingScript\wordle_PlayAllWords.sql" />
   </ItemGroup>
 </Project>
